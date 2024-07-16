@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://media3.giphy.com/media/TdjQAgDIkRsYm1HUbt/200w.gif?cid=6c09b952j7y7pgus4hm67nmfyakayij1thc5znoezdckkd6h&ep=v1_gifs_search&rid=200w.gif&ct=g">
- <source media="(prefers-color-scheme: light)" srcset="https://media3.giphy.com/media/TdjQAgDIkRsYm1HUbt/200w.gif?cid=6c09b952j7y7pgus4hm67nmfyakayij1thc5znoezdckkd6h&ep=v1_gifs_search&rid=200w.gif&ct=g">
- <img alt="Coder dog" src="https://media3.giphy.com/media/TdjQAgDIkRsYm1HUbt/200w.gif?cid=6c09b952j7y7pgus4hm67nmfyakayij1thc5znoezdckkd6h&ep=v1_gifs_search&rid=200w.gif&ct=g">
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
+ <img alt="Coder dog" src="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
 </picture>
 
 - 🔭 I’m currently working on Telefonica
