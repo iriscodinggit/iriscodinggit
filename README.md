@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Iris'+profile;Enjoy!)](https://git.io/typing-svg)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
