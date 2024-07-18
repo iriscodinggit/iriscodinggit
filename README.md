@@ -7,7 +7,7 @@
 </picture>
 
 - 🔭 I’m currently working on Telefonica
-- 🌱 I’m currently learning sorting algorithms
+- 🌱 I’m learning about sorting algorithms
 - 👯 I’m looking to collaborate on game jams
 - 🤔 I’m looking for help with 42 projects
 - 💬 Ask me about my repositories
