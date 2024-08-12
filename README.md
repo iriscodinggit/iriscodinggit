@@ -12,3 +12,5 @@
 - 🤔 I’m looking for help with 42 projects
 - 💬 Ask me about my repositories
 - ⚡ Fun fact: I love golden retrievers and shiba inus!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
