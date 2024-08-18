@@ -6,7 +6,7 @@
  <img alt="Coder dog" src="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
 </picture>
 
-- 🔭 I’m currently working on Telefonica
+- 🔭 I’m currently working for Telefonica
 - 🌱 I’m learning about sorting algorithms
 - 👯 I’m looking to collaborate on game jams
 - 🤔 I’m looking for help with 42 projects
