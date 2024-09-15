@@ -1,7 +1,6 @@
 ## Hi there, I'm Iris! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Iris'+profile!;Enjoy!)](https://git.io/typing-svg)
 <picture>
-<h3 align="center">Nice to meet you!</h3>
 <picture class="centered-image">
     <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
     <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
@@ -21,3 +20,5 @@
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iriscodinggit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<br/>
+<h3 align="center">Nice to meet you!</h3>
