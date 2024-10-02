@@ -4,8 +4,6 @@
  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
  <img alt="Coder dog" src="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
 </picture>
-
-- 🔭 I’m currently working for **Telefonica**
   
 - 🌱 I’m learning about **shell**
   
