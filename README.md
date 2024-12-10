@@ -15,13 +15,13 @@
 <br/>
 <table>
 <tr>
-<th align="left"> &nbsp; My 42 School projects <3</th>
+<th align="left"> &nbsp; ❤️ My 42 School projects ❤️</th>
 </tr>
 <tr>
 
 <td>
 
-| [Libft](https://github.com/iriscodinggit/libft)  | [ftprintf](https://github.com/iriscodinggit/ft_printf) | [gnl](https://github.com/iriscodinggit/gnl) | [solong](https://github.com/iriscodinggit/Kittytales_Linux) | [pushswap](https://github.com/iriscodinggit/push_swap) | [C04](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c04) | [C05](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c05) | [C06](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c06) | [C07](https://github.com/pasqualerossi/42-Piscine/tree/main/C00%20-%20C07%20Piscine%20Projects/c07) |
+| [Libft](https://github.com/iriscodinggit/libft)  | [ftprintf](https://github.com/iriscodinggit/ft_printf) | [gnl](https://github.com/iriscodinggit/gnl) | [solong](https://github.com/iriscodinggit/Kittytales_Linux) | [pushswap](https://github.com/iriscodinggit/push_swap) |
 |--|--|--|--|--|--|--|--|--|
 
 </td> </tr> </table>
