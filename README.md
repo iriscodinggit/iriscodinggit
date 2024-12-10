@@ -1,5 +1,4 @@
 
-<img alt="Coder dog" src="https://i.pinimg.com/originals/2f/10/ce/2f10ce69b96c0611989308b0abc68e70.gif">
 ## Hi there, I'm Iris! 👋
 
 <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
