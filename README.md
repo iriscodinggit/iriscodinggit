@@ -1,7 +1,7 @@
 
-<img alt="Coder dog" src="https://i.redd.it/qud1h92497qd1.gif">
+<img alt="Coder dog" src="https://i.pinimg.com/originals/2f/10/ce/2f10ce69b96c0611989308b0abc68e70.gif">
 ## Hi there, I'm Iris! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Iris'+profile!;Enjoy!)](https://git.io/typing-svg)
+
 <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
  <img alt="Coder dog" src="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
