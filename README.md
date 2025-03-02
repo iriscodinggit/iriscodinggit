@@ -21,7 +21,7 @@
 
 <td>
 
-| [Libft](https://github.com/iriscodinggit/libft)  | [ftprintf](https://github.com/iriscodinggit/ft_printf) | [gnl](https://github.com/iriscodinggit/gnl) | [solong](https://github.com/iriscodinggit/Kittytales_Linux) | [pushswap](https://github.com/iriscodinggit/push_swap) |
+| [Libft](https://github.com/iriscodinggit/libft)  | [ftprintf](https://github.com/iriscodinggit/ft_printf) | [gnl](https://github.com/iriscodinggit/gnl) | [solong](https://github.com/iriscodinggit/Kittytales_Linux) | [pushswap](https://github.com/iriscodinggit/push_swap) | | [philo](https://github.com/iriscodinggit/philosophers) |
 
 
 </td> </tr> </table>
