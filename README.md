@@ -1,9 +1,9 @@
 
 ## Hi there, I'm Iris! 👋
 
-<source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
- <img alt="Coder dog" src="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif">
+<source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+ <img alt="Coder dog" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 </picture>
   
 - 🌱 I’m learning about **shell**
