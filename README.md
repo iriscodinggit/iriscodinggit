@@ -8,7 +8,7 @@
   
 - 🌱 I’m learning about **shell**
   
-- 👯 I’m looking to collaborate on **game jams**
+- 👯 I’m looking forward to collaborating on **game jams**
 
 - ⚡ Fun fact: I love **golden retrievers** and **shiba inus**!
   
