@@ -15,7 +15,7 @@
 <br/>
 <table>
 <tr>
-<th align="left"> &nbsp; ❤️ My 42 School projects ❤️</th>
+<th align="left"> &nbsp; ❤️ Check out my projects from oldest to newest! ❤️</th>
 </tr>
 <tr>
 
