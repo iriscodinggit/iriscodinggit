@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,30&height=180&section=header&text=Iris%20I.&fontSize=42&fontAlignY=40&desc=Software%20engineer&descSize=22&descAlignY=65&animation=twinkling" width="100%"/>
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A8FF&center=true&vCenter=true&random=false&width=600&lines=Multi%20languages%20Programming;UNIX%20%26%20IA%20%26%20Cybersecurity;42%20Madrid%20student" alt="Typing SVG" />
+</h3>
 
 ## Welcome to my profile, I'm Iris! 👋
 
