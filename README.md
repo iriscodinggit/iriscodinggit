@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,30&height=180&section=header&text=Iris%20❤️&fontSize=42&fontAlignY=40&desc=Computer%20Science&descSize=22&descAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif">
+<source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
 
- <source media="(prefers-color-scheme: light)"srcset="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif">
- <img alt="Coder gif" src="https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif"> 
+ <source media="(prefers-color-scheme: light)"srcset="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif">
+ <img alt="Coder gif" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif"> 
 </picture>
   
 <br/>
